@@ -1,4 +1,4 @@
-### Olá! Eu sou o Raphael Anaya ✌️, Freelancer e programador Front-end em uma grande Empresa no Rio.
+### Olá! Eu sou o Raphael Anaya ✌️, programador Front-end.
 <br/><br/>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-anaya/)
