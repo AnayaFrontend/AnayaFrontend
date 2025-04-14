@@ -1,4 +1,4 @@
-### Olá! Eu sou o Raphael Anaya ✌️, programador Front-end.
+### Olá! Eu sou o Raphael Anaya ✌️, Desenvolvedor Web.
 <br/><br/>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-anaya/)
